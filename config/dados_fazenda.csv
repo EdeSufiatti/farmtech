@@ -1,0 +1,7 @@
+cultura,forma,area_m2,hectares,alqueires,espacamento_linhas,dimensao_linhas,num_linhas,comprimento_linha
+Milho,Hexágono,3285.0,0.3285,0.1357438016528925,4.0,20.0,5,60.0
+Soja,Pentágono,2750.0,0.275,0.1136363636363636,2.0,20.0,10,60.0
+Café,Círculo,78.53999999999999,0.007854,0.0032454545454545,2.0,10.0,5,10.0
+Milho,Pentágono,55000.0,5.5,2.272727272727273,2.0,100.0,50,300.0
+Café,Quadrilátero,40000.0,4.0,1.6528925619834711,2.0,200.0,100,200.0
+Trigo,Pentágono,315000.0,31.5,13.016528925619834,2.0,200.0,100,600.0

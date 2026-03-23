@@ -1,0 +1,55 @@
+talhao,cultura,hectares,produto,fabricante,tipo,dose,unidade_ha,quantidade_total,unidade_qtd,custo_ha,custo_total,por_metro,total_aplicacao,unidade_aplicacao
+1,Milho,0.3285,Belt,Bayer,Inseticida,0.1,L/ha,0.0329,L,95.0,31.21,0.04,0.012,L
+1,Milho,0.3285,Stratego Pro,Bayer,Fungicida,0.4,L/ha,0.1314,L,96.0,31.54,0.16,0.048,L
+1,Milho,0.3285,Bayfolan,Bayer,Fertilizante Foliar,2.0,L/ha,0.657,L,100.0,32.85,0.8,0.24,L
+1,Milho,0.3285,Fastac,BASF,Inseticida,0.2,L/ha,0.0657,L,38.0,12.48,0.08,0.024,L
+1,Milho,0.3285,Orkestra,BASF,Fungicida,0.45,L/ha,0.1478,L,135.0,44.35,0.18,0.054,L
+1,Milho,0.3285,Basfoliar 20-20-20,BASF,Fertilizante Foliar,3.0,kg/ha,0.9855,kg,96.0,31.54,0.0012,0.36,kg
+1,Milho,0.3285,Ampligo,Syngenta,Inseticida,0.2,L/ha,0.0657,L,76.0,24.97,0.08,0.024,L
+1,Milho,0.3285,Miravis Neo,Syngenta,Fungicida,0.3,L/ha,0.0985,L,126.0,41.39,0.12,0.036,L
+1,Milho,0.3285,Quantis,Syngenta,Fertilizante Foliar,2.0,L/ha,0.657,L,120.0,39.42,0.8,0.24,L
+2,Soja,0.275,Curbix,Bayer,Inseticida,0.75,L/ha,0.2063,L,240.0,66.0,0.15,0.09,L
+2,Soja,0.275,Fox Xpro,Bayer,Fungicida,0.4,L/ha,0.11,L,112.0,30.8,0.08,0.048,L
+2,Soja,0.275,Bayfolan,Bayer,Fertilizante Foliar,2.0,L/ha,0.55,L,100.0,27.5,0.4,0.24,L
+2,Soja,0.275,Pirate,BASF,Inseticida,0.6,L/ha,0.165,L,174.0,47.85,0.12,0.072,L
+2,Soja,0.275,Orkestra,BASF,Fungicida,0.35,L/ha,0.0963,L,105.0,28.88,0.07,0.042,L
+2,Soja,0.275,Basfoliar Kelp,BASF,Fertilizante Foliar,2.0,L/ha,0.55,L,90.0,24.75,0.4,0.24,L
+2,Soja,0.275,Engeo Pleno,Syngenta,Inseticida,0.25,L/ha,0.0688,L,85.0,23.38,0.05,0.03,L
+2,Soja,0.275,Elatus,Syngenta,Fungicida,0.2,L/ha,0.055,L,90.0,24.75,0.04,0.024,L
+2,Soja,0.275,Quantis,Syngenta,Fertilizante Foliar,2.0,L/ha,0.55,L,120.0,33.0,0.4,0.24,L
+3,Café,0.0079,Sivanto Prime,Bayer,Inseticida,0.75,L/ha,0.0059,L,315.0,2.47,0.15,0.0075,L
+3,Café,0.0079,Sphere Max,Bayer,Fungicida,0.6,L/ha,0.0047,L,162.0,1.27,0.12,0.006,L
+3,Café,0.0079,Bayfolan,Bayer,Fertilizante Foliar,2.0,L/ha,0.0157,L,100.0,0.79,0.4,0.02,L
+3,Café,0.0079,Fastac,BASF,Inseticida,0.3,L/ha,0.0024,L,57.0,0.45,0.06,0.003,L
+3,Café,0.0079,Opera,BASF,Fungicida,0.75,L/ha,0.0059,L,187.5,1.47,0.15,0.0075,L
+3,Café,0.0079,Basfoliar Zn,BASF,Fertilizante Foliar,1.5,L/ha,0.0118,L,57.0,0.45,0.3,0.015,L
+3,Café,0.0079,Actara,Syngenta,Inseticida,0.2,L/ha,0.0016,L,82.0,0.64,0.04,0.002,L
+3,Café,0.0079,Amistar Top,Syngenta,Fungicida,0.5,L/ha,0.0039,L,150.0,1.18,0.1,0.005,L
+3,Café,0.0079,Quantis,Syngenta,Fertilizante Foliar,2.0,L/ha,0.0157,L,120.0,0.94,0.4,0.02,L
+4,Milho,5.5,Belt,Bayer,Inseticida,0.1,L/ha,0.55,L,95.0,522.5,0.02,0.3,L
+4,Milho,5.5,Stratego Pro,Bayer,Fungicida,0.4,L/ha,2.2,L,96.0,528.0,0.08,1.2,L
+4,Milho,5.5,Bayfolan,Bayer,Fertilizante Foliar,2.0,L/ha,11.0,L,100.0,550.0,0.4,6.0,L
+4,Milho,5.5,Fastac,BASF,Inseticida,0.2,L/ha,1.1,L,38.0,209.0,0.04,0.6,L
+4,Milho,5.5,Orkestra,BASF,Fungicida,0.45,L/ha,2.475,L,135.0,742.5,0.09,1.35,L
+4,Milho,5.5,Basfoliar 20-20-20,BASF,Fertilizante Foliar,3.0,kg/ha,16.5,kg,96.0,528.0,0.0006,9.0,kg
+4,Milho,5.5,Ampligo,Syngenta,Inseticida,0.2,L/ha,1.1,L,76.0,418.0,0.04,0.6,L
+4,Milho,5.5,Miravis Neo,Syngenta,Fungicida,0.3,L/ha,1.65,L,126.0,693.0,0.06,0.9,L
+4,Milho,5.5,Quantis,Syngenta,Fertilizante Foliar,2.0,L/ha,11.0,L,120.0,660.0,0.4,6.0,L
+5,Café,4.0,Sivanto Prime,Bayer,Inseticida,0.75,L/ha,3.0,L,315.0,1260.0,0.15,3.0,L
+5,Café,4.0,Sphere Max,Bayer,Fungicida,0.6,L/ha,2.4,L,162.0,648.0,0.12,2.4,L
+5,Café,4.0,Bayfolan,Bayer,Fertilizante Foliar,2.0,L/ha,8.0,L,100.0,400.0,0.4,8.0,L
+5,Café,4.0,Fastac,BASF,Inseticida,0.3,L/ha,1.2,L,57.0,228.0,0.06,1.2,L
+5,Café,4.0,Opera,BASF,Fungicida,0.75,L/ha,3.0,L,187.5,750.0,0.15,3.0,L
+5,Café,4.0,Basfoliar Zn,BASF,Fertilizante Foliar,1.5,L/ha,6.0,L,57.0,228.0,0.3,6.0,L
+5,Café,4.0,Actara,Syngenta,Inseticida,0.2,L/ha,0.8,L,82.0,328.0,0.04,0.8,L
+5,Café,4.0,Amistar Top,Syngenta,Fungicida,0.5,L/ha,2.0,L,150.0,600.0,0.1,2.0,L
+5,Café,4.0,Quantis,Syngenta,Fertilizante Foliar,2.0,L/ha,8.0,L,120.0,480.0,0.4,8.0,L
+6,Trigo,31.5,Decis,Bayer,Inseticida,0.2,L/ha,6.3,L,36.0,1134.0,0.04,2.4,L
+6,Trigo,31.5,Fox,Bayer,Fungicida,0.5,L/ha,15.75,L,115.0,3622.5,0.1,6.0,L
+6,Trigo,31.5,Bayfolan,Bayer,Fertilizante Foliar,2.0,L/ha,63.0,L,100.0,3150.0,0.4,24.0,L
+6,Trigo,31.5,Fastac,BASF,Inseticida,0.2,L/ha,6.3,L,38.0,1197.0,0.04,2.4,L
+6,Trigo,31.5,Opera,BASF,Fungicida,0.6,L/ha,18.9,L,150.0,4725.0,0.12,7.2,L
+6,Trigo,31.5,Basfoliar Boro,BASF,Fertilizante Foliar,1.0,L/ha,31.5,L,35.0,1102.5,0.2,12.0,L
+6,Trigo,31.5,Karate Zeon,Syngenta,Inseticida,0.15,L/ha,4.725,L,31.5,992.25,0.03,1.8,L
+6,Trigo,31.5,Trivapro,Syngenta,Fungicida,0.4,L/ha,12.6,L,128.0,4032.0,0.08,4.8,L
+6,Trigo,31.5,Quantis,Syngenta,Fertilizante Foliar,2.0,L/ha,63.0,L,120.0,3780.0,0.4,24.0,L
